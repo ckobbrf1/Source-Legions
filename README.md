@@ -43,9 +43,11 @@ v0.0.3	Configurable SFX, Compatibility with other NPC bases
 v0.0.4	Global faction commanders (AI and Players)
 
 Contributing
+
 Contributions are welcome. Please open an issue first to discuss proposed changes.
 
 License
+
 MIT License
 
 Contact
