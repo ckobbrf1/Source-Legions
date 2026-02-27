@@ -24,7 +24,7 @@ This addon transforms static NPC shootouts into dynamic engagements. NPCs no lon
 
 ### Steam Workshop
 1. Subscribe to [GlitchCore](https://steamcommunity.com/workshop/filedetails/?id=3674746875)
-2. Subscribe to [Source Legions](https://steamcommunity.com/workshop/filedetails/?id=XXXXXXXXX)
+2. Subscribe to [Source Legions](https://steamcommunity.com/sharedfiles/filedetails/?id=3670871637)
 
 ### Manual
 1. Install GlitchCore
@@ -34,19 +34,20 @@ This addon transforms static NPC shootouts into dynamic engagements. NPCs no lon
 
 ## Configuration
 
-Configuration files are located in `data/source_legions/sh_config.lua`. All morale thresholds, retreat behaviors, and timing parameters can be adjusted.
+Configuration files are located in `source_legions\lua\universal_morale_system`. All morale thresholds, retreat behaviors, and timing parameters can be adjusted.
 
 Roadmap
 Version	Features
 v0.0.2	Battle system, Squad system
 v0.0.3	Configurable SFX, Compatibility with other NPC bases
 v0.0.4	Global faction commanders (AI and Players)
+
 Contributing
-
 Contributions are welcome. Please open an issue first to discuss proposed changes.
-License
 
+License
 MIT License
+
 Contact
 
 Discord: v0idkr31
